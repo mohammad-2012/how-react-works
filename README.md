@@ -1,7 +1,7 @@
 # ⚛️ How React Works
 ---
 
-# 🚀 **LIVE DEMO:** https://mohammad-2012.github.io/how-react-works/
+ 🚀 **LIVE DEMO:** https://mohammad-2012.github.io/how-react-works/
 
 A simple project to understand React internals - how JSX gets converted to elements, how rendering works, and the magic behind the scenes.
 
